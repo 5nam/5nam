@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="168" viewBox="0 0 880 168">
   <rect x="0.5" y="0.5" width="879" height="167" rx="10" fill="#FFFFFF" stroke="#D1D9E0"/>
-  <text x="36" y="70" font-family="system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="38" font-weight="700" fill="#1F2328">오남의</text>
+  <text x="36" y="70" font-family="system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="38" font-weight="700" fill="#1F2328">5nam</text>
   <text x="36" y="104" font-family="system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="17" font-weight="600" fill="#2F5D8A">Backend Developer · Java / Spring</text>
   <text x="36" y="132" font-family="system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="15" fill="#59636E">데이터가 유실·중복되지 않는 서버를 만듭니다</text>
   <line x1="500" y1="32" x2="500" y2="136" stroke="#D1D9E0"/>

@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="오남의 · Backend Developer · Java / Spring" src="assets/header-light.svg" width="100%">
+  <img alt="5nam · Backend Developer · Java / Spring" src="assets/header-light.svg" width="100%">
 </picture>
 
 <p align="center">

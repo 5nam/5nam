@@ -19,11 +19,11 @@
       <b>Teaming</b><br><sub>팀플 관리<br>서비스</sub>
     </td>
     <td align="center" width="140">
-      <a href="https://github.com/Ttottoga/BE"><img src="https://avatars.githubusercontent.com/u/154615429?s=200&v=4" width="96" height="96" alt="또또가"></a><br>
+      <img src="https://avatars.githubusercontent.com/u/154615429?s=200&v=4" width="96" height="96" alt="또또가"><br>
       <b>또또가</b><br><sub>리뷰 마케팅<br>플랫폼</sub>
     </td>
     <td align="center" width="140">
-      <a href="https://github.com/ClothesMe/AI-Server"><img src="https://avatars.githubusercontent.com/u/165641717?s=200&v=4" width="96" height="96" alt="ClothesMe"></a><br>
+      <img src="https://avatars.githubusercontent.com/u/165641717?s=200&v=4" width="96" height="96" alt="ClothesMe"><br>
       <b>ClothesMe</b><br><sub>시각장애인<br>의류 어시스턴트</sub>
     </td>
     <td align="center" width="140">

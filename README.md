@@ -1,8 +1,14 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=26&duration=2800&pause=900&color=4A6FA5&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I%27m+%EC%98%A4%EB%82%A8%EC%9D%98;%EA%B8%88%EC%9C%B5+IT+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC+%EC%A4%80%EB%B9%84%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Hi, I'm 오남의 - 금융 IT 백엔드 개발자를 준비합니다"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="오남의 · Backend Developer · Java / Spring" src="assets/header-light.svg" width="100%">
+</picture>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,aws,docker,fastapi&theme=dark">
+    <img alt="Java, Spring, MySQL, Redis, Kafka, AWS, Docker, FastAPI" src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,aws,docker,fastapi&theme=light">
+  </picture>
+</p>
 
 ## Projects
 

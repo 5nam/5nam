@@ -12,9 +12,36 @@
 
 ## Projects
 
-| [![Teaming](https://avatars.githubusercontent.com/u/138801495?s=200&v=4)](https://github.com/UmcTeaming/BackEnd) | [![Ttottoga](https://avatars.githubusercontent.com/u/154615429?s=200&v=4)](https://github.com/Ttottoga/BE) | [![ClothesMe](https://avatars.githubusercontent.com/u/165641717?s=200&v=4)](https://github.com/ClothesMe/AI-Server) | [![NiorNear](https://avatars.githubusercontent.com/u/177142173?s=200&v=4)](https://github.com/Nior-Near/BE) | [![matchday](https://avatars.githubusercontent.com/u/191745726?s=200&v=4)](https://github.com/S-nect1/matchday-server) | [![혜택알려조](https://avatars.githubusercontent.com/u/224514777?s=200&v=4)](https://github.com/BenefitAllyeojyo/2025-BenefitAllyeojyo-14) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **Teaming**<br>팀플 관리 서비스 | **또또가**<br>리뷰 마케팅 플랫폼 | **ClothesMe**<br>시각장애인 의류 어시스턴트 | **니어니어**<br>세대를 잇는 음식 주문 서비스 | **matchday**<br>스포츠 동아리 일정·매치 서비스 | **혜택알려조**<br>대학생 제휴 혜택 플랫폼 |
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/UmcTeaming/BackEnd"><img src="https://avatars.githubusercontent.com/u/138801495?s=200&v=4" width="96" height="96" alt="Teaming"></a><br>
+      <b>Teaming</b><br><sub>팀플 관리<br>서비스</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/Ttottoga/BE"><img src="https://avatars.githubusercontent.com/u/154615429?s=200&v=4" width="96" height="96" alt="또또가"></a><br>
+      <b>또또가</b><br><sub>리뷰 마케팅<br>플랫폼</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/ClothesMe/AI-Server"><img src="https://avatars.githubusercontent.com/u/165641717?s=200&v=4" width="96" height="96" alt="ClothesMe"></a><br>
+      <b>ClothesMe</b><br><sub>시각장애인<br>의류 어시스턴트</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/Nior-Near/BE"><img src="https://avatars.githubusercontent.com/u/177142173?s=200&v=4" width="96" height="96" alt="니어니어"></a><br>
+      <b>니어니어</b><br><sub>세대를 잇는<br>음식 주문 서비스</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/S-nect1/matchday-server"><img src="https://avatars.githubusercontent.com/u/191745726?s=200&v=4" width="96" height="96" alt="matchday"></a><br>
+      <b>matchday</b><br><sub>스포츠 동아리<br>일정·매치 서비스</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/BenefitAllyeojyo/2025-BenefitAllyeojyo-14"><img src="https://avatars.githubusercontent.com/u/224514777?s=200&v=4" width="96" height="96" alt="혜택알려조"></a><br>
+      <b>혜택알려조</b><br><sub>대학생 제휴<br>혜택 플랫폼</sub>
+    </td>
+  </tr>
+</table>
+
+<br>팀플 관리 서비스 | **또또가**<br>리뷰 마케팅 플랫폼 | **ClothesMe**<br>시각장애인 의류 어시스턴트 | **니어니어**<br>세대를 잇는 음식 주문 서비스 | **matchday**<br>스포츠 동아리 일정·매치 서비스 | **혜택알려조**<br>대학생 제휴 혜택 플랫폼 |
 
 <br>
 

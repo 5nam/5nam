@@ -1,27 +1,51 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&text=5nam's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=60" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center">
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          </div>
-    </div>
-    <div align= "center">
-    <div align= "center">  </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=5nam&bg_color=180,00000000,&title_color=000000&text_color=000000"
-         />  </div> 
-    </div>
-    
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4A6FA5&text=5nam&fontColor=FFFFFF&fontSize=90&animation=fadeIn" width="100%"/>
+
+## Projects
+
+| [![Teaming](https://avatars.githubusercontent.com/u/138801495?s=200&v=4)](https://github.com/UmcTeaming/BackEnd) | [![Ttottoga](https://avatars.githubusercontent.com/u/154615429?s=200&v=4)](https://github.com/Ttottoga/BE) | [![ClothesMe](https://avatars.githubusercontent.com/u/165641717?s=200&v=4)](https://github.com/ClothesMe/AI-Server) | [![NiorNear](https://avatars.githubusercontent.com/u/177142173?s=200&v=4)](https://github.com/Nior-Near/BE) | [![matchday](https://avatars.githubusercontent.com/u/191745726?s=200&v=4)](https://github.com/S-nect1/matchday-server) | [![혜택알려조](https://avatars.githubusercontent.com/u/224514777?s=200&v=4)](https://github.com/BenefitAllyeojyo/2025-BenefitAllyeojyo-14) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **Teaming**<br>팀플 관리 서비스 | **또또가**<br>리뷰 마케팅 플랫폼 | **ClothesMe**<br>시각장애인 의류 어시스턴트 | **니어니어**<br>세대 잇는 음식 주문 | **matchday**<br>스포츠 동아리 일정·매치 | **혜택알려조**<br>대학생 제휴 혜택 플랫폼 |
+
+<br>
+
+## Experience
+| 기간 | 활동 명칭 | 상세 내용 |
+| :--- | :--- | :--- |
+| 2026.09 - 2026.10 | **신한펀드파트너스 채용연계형 인턴** | ProFrame·Pro*C 기반 펀드회계 조회 화면 개발, 테스트 내역서 작성 AI 에이전트 개발 |
+| 2026.01 - 2026.07 | **flex Enterprise Product Engineer 인턴** | 패스키(WebAuthn) 인증 도입, 채용 지원자 검색을 DB에서 검색엔진으로 운영 전환 |
+| 2025.07 - 2025.12 | **SSAFY 14기 (삼성청년SW·AI아카데미)** | Java/Spring 기반 백엔드 트랙 수료 |
+| 2024.03 - 2024.08 | **UMC 6기** | 서버(Spring Boot) 파트장, 백엔드 스터디장 |
+| 2023.09 - 2024.02 | **UMC 5기** | 서버(Spring Boot) 파트 수료 |
+| 2023.03 - 2023.08 | **UMC 4기** | 서버(Spring Boot) 파트 수료 |
+
+<br>
+
+## Honors & Awards
+
+| 날짜 | 수상 명칭 | 수여 기관 | 비고 |
+| :--- | :--- | :--- | :--- |
+| 2025.08 | **2025 신한 헤이영 해커톤 최우수상** | 신한은행 | 대학생 제휴 혜택 플랫폼 혜택알려조 (BE) |
+| 2025.01 | **헐트 프라이즈 교내 예선 최우수상** | Hult Prize | 세대를 잇는 음식 주문 서비스 니어니어 (BE 팀장) |
+
+<br>
+
+## Publication
+| 날짜 | 논문 | 학회 |
+| :--- | :--- | :--- |
+| 2024 | **ClothesMe: 시각 장애인을 위한 인공지능 기반 패션 도우미** | 한국정보처리학회 ACK 2024 |
+
+<br>
+
+## Certifications & Language
+| 구분 | 자격 및 어학 명칭 | 발급 기관 / 성적 | 취득일 |
+| :--- | :--- | :--- | :--- |
+| **Tech** | **정보처리기사** | 한국산업인력공단 | 2024.12.11 |
+| **Tech** | **SQL 개발자 (SQLD)** | 한국데이터산업진흥원 | 2023.12.15 |
+| **Tech** | **ITQ 아래한글 A등급** | 한국생산성본부 | 2015.07.30 |
+| **Tech** | **GTQ 그래픽기술자격 1급 (포토샵)** | 한국생산성본부 | 2015.03.20 |
+| **Tech** | **ITQ 한글엑셀 B등급** | 한국생산성본부 | 2013.10.02 |
+| **Tech** | **ITQ 인터넷 A등급** | 한국생산성본부 | 2012.12.13 |
+| **Tech** | **ITQ 한글파워포인트 A등급** | 한국생산성본부 | 2012.05.31 |
+| **Language** | **OPIc English** | **Intermediate High (IH)** | 2026.09.11 |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4A6FA5&section=footer&reversal=true" width="100%"/>

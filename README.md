@@ -13,7 +13,7 @@
 | :--- | :--- | :--- |
 | 2026.09 - 2026.10 | **신한펀드파트너스 채용연계형 인턴** | ProFrame·Pro*C 기반 펀드회계 조회 화면 개발, 테스트 내역서 작성 AI 에이전트 개발 |
 | 2026.01 - 2026.07 | **flex Enterprise Product Engineer 인턴** | 패스키(WebAuthn) 인증 도입, 채용 지원자 검색을 DB에서 검색엔진으로 운영 전환 |
-| 2025.07 - 2025.12 | **SSAFY 14기 (삼성청년SW·AI아카데미)** | Java/Spring 기반 백엔드 트랙 수료 |
+| 2025.07 - 2025.12 | **SSAFY 14기 (삼성청년SW·AI아카데미)** | 1학기 수료(925시간). Java·Spring Boot·MyBatis·REST API, Vue.js, SQL·DB 모델링, 알고리즘, 생성형 AI·LangChain Agent 학습<br>AI 관통 프로젝트 **플레잇(Playt)** - AI 여행지 추천 서비스 |
 | 2024.03 - 2024.08 | **UMC 6기** | 서버(Spring Boot) 파트장, 백엔드 스터디장 |
 | 2023.09 - 2024.02 | **UMC 5기** | 서버(Spring Boot) 파트 수료 |
 | 2023.03 - 2023.08 | **UMC 4기** | 서버(Spring Boot) 파트 수료 |
